@@ -3,5 +3,7 @@ pandas
 pymysql
 mysql-connector-python
 scikit-learn
+seaborn
+matplotlib
 
 # -e .
